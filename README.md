@@ -1,0 +1,2 @@
+# Elakiya2.-html
+&lt;html>  &lt;body>  &lt;h1>Google classroom &lt;/h1> &lt;img src="/storage /emulated/0/Android /data/ru.zdevs.zarchiver/Files/Google _Classroom _Logo.png" alt="Google classroom" width ="243" height="282"> &lt;p>integrates your G Suite for Education account with all your G Suite services, including Google Docs, Gmail, and Google Calendar. Classroom saves time and paper, and makes it easy to create classes, distribute assignments, communicate, and stay organized.&lt;a href = "https://www.googleclassroom.com/"> &lt;/a>&lt;/p>&lt;/body>&lt;/html>
